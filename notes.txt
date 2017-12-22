@@ -1,0 +1,9 @@
+cnn_checkpoint_weights	prediction_file				score
+weights-1-ft.04.hdf5	predictions-cnn-20171214-115958.txt	701158.51
+weights-1-ft.09.hdf5	predictions-cnn-20171218-091418.txt	693936.63
+weights-1-ft.14.hdf5	---					---
+weights-1-ft-1.00.hdf5	predictions-cnn-20171220-125603.txt	721244.31*
+weights-1-ft-1.01.hdf5	predictions-cnn-20171220-120231.txt	712588.49
+weights-1-ft-1.02.hdf5	predictions-cnn-20171219-154240.txt	712853.48
+weights-1-ft-1.03.hdf5	predictions-cnn-20171220-084529.txt	706193.97
+weights-1-ft-1.04.hdf5	predictions-cnn-20171220-125820.txt	702449.21
